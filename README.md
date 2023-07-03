@@ -11,6 +11,6 @@ Me apasiona obtener valor a través de los datos y responder al ¿Por qué? de l
 distintas industrias para proponer soluciones basadas en datos a través de análisis predictivos y prescriptivos.
 #
 En 2021 terminé mis estudios de doctorado en el área de Matemática Computacional y Aplicada (por la Universidad Nacional Autónoma de México) 
-y actualmente sigo aplicando mi experiencia para obtener valor a través de los datos.
+y actualmente sigo incrementando mi experiencia en el ámbito de los datos.
 #
 Comparto mi [LinkedIn]( https://www.linkedin.com/in/marcosbernalr/ ) por si gustas contactarme.
